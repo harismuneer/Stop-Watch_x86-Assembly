@@ -22,6 +22,16 @@ c:
 ```
 nasm timer.asm -o timer.com  
 ```
+
+To run the stop watch, type:
+
+```
+timer.com
+```
+
+To examine step by step working of the code, type
+
 ```
 afd timer.com
 ```
+
