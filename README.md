@@ -77,9 +77,6 @@ Stuck with some problem? Need help in solution development, guidance, training o
 <hr>
 <br>
 
-
-------------------
-
 ## Author
 You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/harismuneer)
 
