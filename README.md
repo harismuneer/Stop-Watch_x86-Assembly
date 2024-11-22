@@ -72,8 +72,6 @@ With modern AI tools like ChatGPT, solving challenges and contributing effective
 
 Copyright (c) 2018-present, harismuneer
 
-Copyright (c) 2018-present, harismuneer                                                        
-
 <!-- PROFILE_INTRO_START -->
 <!-- PROFILE_INTRO_END -->
 
